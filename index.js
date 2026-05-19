@@ -15,6 +15,10 @@ const port = process.env.PORT || 3000;
 // Connect to Database
 connectDB();
 
+app.get('/', (req,res) => { 
+    res.send('You are on get route')
+})
+
 app.use(cors());
 app.use(express.json());
 
