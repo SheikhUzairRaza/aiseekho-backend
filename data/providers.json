@@ -1,0 +1,1813 @@
+[
+  {
+    "id": "isb_pl_verified_01",
+    "name": "Mahir Company (Mr. Mahir) - Plumbing",
+    "city": "Islamabad",
+    "service_category": "plumber",
+    "category": "Plumber",
+    "location": "All Islamabad areas (I-9, I-10, G-10, DHA, Bahria Town)",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/Mahir+Company+Islamabad",
+    "base_price": 900,
+    "skills_array": [
+      "Geyser installation",
+      "Pipe leakage repair",
+      "Drain cleaning",
+      "Commode installation",
+      "Water tank cleaning"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 95,
+    "cancellation_rate": 2,
+    "phone": "0301-6169427",
+    "website": "https://mahircompany.com/plumbing-services-islamabad",
+    "source": "Official Website",
+    "verified": true,
+    "app_available": true,
+    "app": "Mahir Company App",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_pl_verified_02",
+    "name": "FixDar Plumbing Services (Islamabad)",
+    "city": "Islamabad",
+    "service_category": "plumber",
+    "category": "Plumber",
+    "location": "All Islamabad sectors",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/FixDar+Islamabad",
+    "base_price": 900,
+    "skills_array": [
+      "Emergency plumbing",
+      "Pipe repair",
+      "Water heater installation",
+      "Drain unblocking"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "+92-311-1222819",
+    "website": "https://www.fixdar.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_el_verified_01",
+    "name": "Hassan & Hussain Enterprises",
+    "city": "Islamabad",
+    "service_category": "electrician",
+    "category": "Electrician",
+    "location": "All Islamabad sectors",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/Hassan+Hussain+Enterprises+Islamabad",
+    "base_price": 1000,
+    "skills_array": [
+      "House wiring",
+      "Electrical installations",
+      "Light installation",
+      "Ceiling fan repair",
+      "LED TV mounting"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "0333-5189194",
+    "website": "https://hassanandhussain.com/",
+    "source": "Official Website",
+    "verified": true,
+    "experience": "20+ years",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_el_verified_02",
+    "name": "ElectricianServices.pk",
+    "city": "Islamabad",
+    "service_category": "electrician",
+    "category": "Electrician",
+    "location": "Islamabad & Rawalpindi",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/ElectricianServices+Islamabad",
+    "base_price": 1000,
+    "skills_array": [
+      "House wiring",
+      "UPS installation",
+      "Solar installation",
+      "CCTV installation",
+      "Emergency repairs"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "+92-315-0510154",
+    "website": "https://electricianservices.pk/",
+    "source": "Official Website",
+    "verified": true,
+    "experience": "10+ years",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_el_verified_03",
+    "name": "Saif Electrician & CO",
+    "city": "Islamabad",
+    "service_category": "electrician",
+    "category": "Electrician",
+    "location": "All Islamabad & Rawalpindi areas",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/Saif+Electrician+Islamabad",
+    "base_price": 1000,
+    "skills_array": [
+      "Electrical repairs",
+      "Motor winding",
+      "Geyser installation",
+      "Washing machine repair",
+      "24/7 emergency"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "0333-6182150",
+    "website": "https://saifelectrician.com.pk/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_el_verified_04",
+    "name": "Kareegar Electric Works",
+    "city": "Islamabad",
+    "service_category": "electrician",
+    "category": "Electrician",
+    "location": "Islamabad & Lahore",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/Kareegar+Islamabad",
+    "base_price": 1000,
+    "skills_array": [
+      "AC repair",
+      "Electrical services",
+      "Electrical maintenance",
+      "Complete rewiring"
+    ],
+    "availability": [
+      "afternoon"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 5,
+    "phone": "0342-4405239",
+    "website": "https://kareegar.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_ac_verified_01",
+    "name": "Pak Repair Point",
+    "city": "Islamabad",
+    "service_category": "ac_technician",
+    "category": "AC Technician",
+    "location": "Islamabad & Rawalpindi",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/Pak+Repair+Point+Islamabad",
+    "base_price": 1500,
+    "skills_array": [
+      "Split AC repair",
+      "Gas refill",
+      "AC installation",
+      "Inverter AC service",
+      "Emergency AC repair"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 95,
+    "cancellation_rate": 2,
+    "phone": "0335-0155522",
+    "website": "https://pakrepairpoint.com/",
+    "source": "Official Website",
+    "verified": true,
+    "certified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_ac_verified_02",
+    "name": "Smart FixUp AC Services",
+    "city": "Islamabad",
+    "service_category": "ac_technician",
+    "category": "AC Technician",
+    "location": "All CDA sectors, DHA, Bahria Town",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/Smart+FixUp+Islamabad",
+    "base_price": 1500,
+    "skills_array": [
+      "AC repair",
+      "Gas filling",
+      "AC installation",
+      "Compressor repair",
+      "PCB diagnosis"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "website": "https://smartfixup.com/",
+    "source": "Official Website",
+    "verified": true,
+    "experience": "Since 2010",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_ac_verified_03",
+    "name": "Maqsood & Sons AC Services",
+    "city": "Islamabad",
+    "service_category": "ac_technician",
+    "category": "AC Technician",
+    "location": "All Islamabad sectors (G-8, F-8, I-8, Blue Area, DHA, Bahria Town)",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/Maqsood+Sons+Islamabad",
+    "base_price": 1500,
+    "skills_array": [
+      "Split AC repair",
+      "Inverter AC service",
+      "Gas filling",
+      "Installation",
+      "Emergency repair"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "0304-0007000 (Mobile)",
+    "phone_landline": "051-111-000-103",
+    "website": "https://maqsoodandsons.com/",
+    "source": "Official Website",
+    "verified": true,
+    "experience": "10 years",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_ac_verified_04",
+    "name": "AC Repair Service Man",
+    "city": "Islamabad",
+    "service_category": "ac_technician",
+    "category": "AC Technician",
+    "location": "Islamabad, Rawalpindi, Bahria Town",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/AC+Repair+Service+Man+Islamabad",
+    "base_price": 1500,
+    "skills_array": [
+      "AC repair",
+      "Gas refilling",
+      "Installation",
+      "Inverter AC specialist",
+      "Deep cleaning"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.8,
+    "reliability_score": 96,
+    "cancellation_rate": 2,
+    "phone": "0342-2617324",
+    "website": "https://www.acrepairserviceman.com/",
+    "source": "Official Website",
+    "verified": true,
+    "verified_reviews": true,
+    "experience": "Since 2020",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_tu_verified_01",
+    "name": "Islamabad Home Tuition Providers",
+    "city": "Islamabad",
+    "service_category": "tutor",
+    "category": "Tutor",
+    "location": "All Islamabad sectors (F-6, E-7, E-8, G-11, DHA, Bahria Town)",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/Islamabad+Home+Tuition+Providers",
+    "base_price": 15000,
+    "skills_array": [
+      "Home tuition",
+      "O-levels",
+      "A-levels",
+      "IGCSE",
+      "Entry test prep (ECAT, MCAT)",
+      "IELTS"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "0307-9444777 OR 0333-5944777",
+    "website": "https://www.tutoring.pk/",
+    "source": "Official Website",
+    "verified": true,
+    "experience": "15 years",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_tu_verified_02",
+    "name": "Tutor Service in Islamabad",
+    "city": "Islamabad",
+    "service_category": "tutor",
+    "category": "Tutor",
+    "location": "All Islamabad areas",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/Tutor+Service+Islamabad",
+    "base_price": 15000,
+    "skills_array": [
+      "Home tuition",
+      "Online tuition",
+      "All subjects & classes",
+      "Male & female tutors",
+      "Free trial class"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "0314-1882794",
+    "website": "https://tutorserviceinislamabad.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_tu_verified_03",
+    "name": "FAHAD Tutors Academy",
+    "city": "Islamabad",
+    "service_category": "tutor",
+    "category": "Tutor",
+    "location": "Islamabad & online (Pakistan, Dubai, USA, UK, Canada, Australia)",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/FAHAD+Tutors+Academy+Islamabad",
+    "base_price": 15000,
+    "skills_array": [
+      "Home tuition",
+      "Online tuition",
+      "All grades & subjects",
+      "Entry test prep",
+      "University courses"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "website": "https://fahadtutors.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_tu_verified_04",
+    "name": "Tutors in Islamabad",
+    "city": "Islamabad",
+    "service_category": "tutor",
+    "category": "Tutor",
+    "location": "All Islamabad sectors",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/Tutors+in+Islamabad",
+    "base_price": 15000,
+    "skills_array": [
+      "IGCSE tutoring",
+      "O & A levels",
+      "IB curriculum",
+      "Cambridge, Edexcel, AQA",
+      "University level"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "website": "https://tutorsinislamabad.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_tu_verified_05",
+    "name": "Beacon Tutors",
+    "city": "Islamabad",
+    "service_category": "tutor",
+    "category": "Tutor",
+    "location": "All Islamabad sectors & housing schemes",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/Beacon+Tutors+Islamabad",
+    "base_price": 15000,
+    "skills_array": [
+      "Home tuition",
+      "Online tuition",
+      "O & A levels",
+      "IGCSE",
+      "IELTS, SAT, GMAT prep"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "website": "https://beacontutorspk.com/",
+    "source": "Official Website",
+    "verified": true,
+    "experience": "6+ years",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "isb_hs_verified_01",
+    "name": "Mahir Company - Home Services",
+    "city": "Islamabad",
+    "service_category": "home_service",
+    "category": "Home Services",
+    "location": "All Islamabad areas",
+    "lat": 33.6844,
+    "lon": 73.0479,
+    "location_coordinates": {
+      "lat": 33.6844,
+      "lng": 73.0479
+    },
+    "map_url": "https://www.google.com/maps/search/Mahir+Company+Home+Services+Islamabad",
+    "base_price": 3000,
+    "skills_array": [
+      "Sofa cleaning",
+      "Carpet cleaning",
+      "Water tank cleaning",
+      "Home maintenance"
+    ],
+    "availability": [
+      "morning",
+      "afternoon"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 5,
+    "phone": "0301-6169427",
+    "website": "https://mahircompany.com/islamabad",
+    "source": "Official Website",
+    "verified": true,
+    "app": "Mahir Company App",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_pl_verified_01",
+    "name": "Mahir Company (Mr. Mahir) - Plumbing Services",
+    "city": "Lahore",
+    "service_category": "plumber",
+    "category": "Plumber",
+    "location": "All Lahore areas (DHA, Gulberg, Johar Town, Model Town, Bahria Town)",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Mahir+Company+Lahore",
+    "base_price": 900,
+    "skills_array": [
+      "Geyser installation",
+      "Pipe leakage",
+      "Drain cleaning",
+      "Water tank cleaning",
+      "Commode installation"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 95,
+    "cancellation_rate": 2,
+    "phone": "0309-666-1919",
+    "phone_alt": "0301-6169427",
+    "website": "https://mahircompany.com/plumbing-services-lahore",
+    "source": "Official Website",
+    "verified": true,
+    "app_available": true,
+    "app": "Mahir Company App",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_pl_verified_02",
+    "name": "Hazir Karigar - Plumbing Services",
+    "city": "Lahore",
+    "service_category": "plumber",
+    "category": "Plumber",
+    "location": "All Lahore areas",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Hazir+Karigar+Lahore",
+    "base_price": 900,
+    "skills_array": [
+      "Emergency plumbing",
+      "Pipe repair",
+      "Leak detection",
+      "Drain blockage",
+      "Water fixtures installation"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "0305-9941000",
+    "website": "https://hazirkarigar.pk/plumber/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_pl_verified_03",
+    "name": "ServiceCenter.pk - Plumbing",
+    "city": "Lahore",
+    "service_category": "plumber",
+    "category": "Plumber",
+    "location": "DHA, Gulberg, Bahria Town, Model Town",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/ServiceCenter+Lahore",
+    "base_price": 900,
+    "skills_array": [
+      "Pipe installation",
+      "Tap & faucet repair",
+      "Drain cleaning",
+      "PPRC & UPVC pipes",
+      "Emergency repairs"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "website": "https://servicecenter.pk/plumber-service/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_el_verified_01",
+    "name": "Mahir Company (Mr. Mahir) - Electrician Services",
+    "city": "Lahore",
+    "service_category": "electrician",
+    "category": "Electrician",
+    "location": "All Lahore areas",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Mahir+Company+Electrician+Lahore",
+    "base_price": 1000,
+    "skills_array": [
+      "Ceiling fan installation",
+      "House wiring",
+      "UPS installation",
+      "LED TV mounting",
+      "Light installation"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 95,
+    "cancellation_rate": 2,
+    "phone": "0309-666-1919",
+    "website": "https://mahircompany.com/electrician-services-lahore",
+    "source": "Official Website",
+    "verified": true,
+    "app_available": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_el_verified_02",
+    "name": "Kareegar Electric Works",
+    "city": "Lahore",
+    "service_category": "electrician",
+    "category": "Electrician",
+    "location": "Lahore & Islamabad (DHA, Bahria Town, Model Town)",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Kareegar+Lahore",
+    "base_price": 1000,
+    "skills_array": [
+      "Electrical installations",
+      "AC repair",
+      "Electrical maintenance",
+      "Complete rewiring"
+    ],
+    "availability": [
+      "afternoon"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 5,
+    "phone": "0342-4405239",
+    "website": "https://kareegar.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_ac_verified_01",
+    "name": "AC Service in Lahore - Expert Cooling Zone",
+    "city": "Lahore",
+    "service_category": "ac_technician",
+    "category": "AC Technician",
+    "location": "DHA, Gulberg, Model Town, Johar Town, Bahria Town",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Expert+Cooling+Zone+Lahore",
+    "base_price": 1500,
+    "skills_array": [
+      "Split AC repair",
+      "Gas filling",
+      "AC installation",
+      "AC maintenance",
+      "Inverter AC service"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 95,
+    "cancellation_rate": 2,
+    "phone": "0308-5643404",
+    "website": "https://acserviceinlahore.com/",
+    "source": "Official Website",
+    "verified": true,
+    "certified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_ac_verified_02",
+    "name": "The Hadi AC Service - Lahore",
+    "city": "Lahore",
+    "service_category": "ac_technician",
+    "category": "AC Technician",
+    "location": "DHA, Gulberg, Model Town, Valencia, Iqbal Town",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Hadi+AC+Service+Lahore",
+    "base_price": 1500,
+    "skills_array": [
+      "AC repair & installation",
+      "Gas refilling",
+      "AC kit repair",
+      "All brands serviced (LG, Samsung, Haier, Gree, Orient)"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "website": "https://hadiacservice.com/",
+    "source": "Official Website",
+    "verified": true,
+    "experience": "15+ years",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_ac_verified_03",
+    "name": "Nadeem AC Services - Lahore",
+    "city": "Lahore",
+    "service_category": "ac_technician",
+    "category": "AC Technician",
+    "location": "Gulberg, Askari, Iqbal Town, Valencia, DHA, Bahria",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Nadeem+AC+Services+Lahore",
+    "base_price": 1500,
+    "skills_array": [
+      "AC service & repair",
+      "Gas filling",
+      "AC installation",
+      "Geyser repair",
+      "24-hour response"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "website": "https://www.nadeemacservices.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_ac_verified_04",
+    "name": "Mr Repair - AC Services",
+    "city": "Lahore",
+    "service_category": "ac_technician",
+    "category": "AC Technician",
+    "location": "DHA, Johar Town, Model Town, Gulberg, Wapda Town, Bahria Town",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Mr+Repair+Lahore",
+    "base_price": 1500,
+    "skills_array": [
+      "AC repair & installation",
+      "Gas refill",
+      "AC maintenance",
+      "All major brands"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "+92-370-6613979",
+    "website": "https://mrrepair.pk/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_tu_verified_01",
+    "name": "Cambridge Home Tutors - DHA Lahore",
+    "city": "Lahore",
+    "service_category": "tutor",
+    "category": "Tutor",
+    "location": "All DHA Phases (1-9), Lahore",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Cambridge+Home+Tutors+DHA+Lahore",
+    "base_price": 5000,
+    "skills_array": [
+      "O & A levels",
+      "IGCSE coaching",
+      "Home tuition",
+      "Free demo class",
+      "Result-oriented"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "0309-0045858",
+    "website": "https://www.cambridgehometutor.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_tu_verified_02",
+    "name": "Roots Home Tutors - Lahore",
+    "city": "Lahore",
+    "service_category": "tutor",
+    "category": "Tutor",
+    "location": "DHA (all phases), Gulberg, Model Town, Johar Town, Bahria Town, all Lahore areas",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Roots+Home+Tutors+Lahore",
+    "base_price": 5000,
+    "skills_array": [
+      "O & A levels",
+      "IGCSE",
+      "IB curriculum",
+      "Male & female tutors",
+      "24-48 hour matching"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.9,
+    "reliability_score": 98,
+    "cancellation_rate": 2,
+    "website": "https://rootshometutors.com/home-tuitions-in-lahore/",
+    "source": "Official Website",
+    "verified": true,
+    "verified_reviews": 130,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_tu_verified_03",
+    "name": "FAHAD Tutors Academy - Lahore",
+    "city": "Lahore",
+    "service_category": "tutor",
+    "category": "Tutor",
+    "location": "DHA, Model Town, Johar Town, Cantt, Gulberg, Bahria Town",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/FAHAD+Tutors+Academy+Lahore",
+    "base_price": 5000,
+    "skills_array": [
+      "Home tuition",
+      "Online tuition",
+      "All classes & subjects",
+      "Entry test prep",
+      "100% satisfaction"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "website": "https://fahadtutors.com/home-tuition-in-lahore.php",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_tu_verified_04",
+    "name": "Oxford Home Tutors - Lahore",
+    "city": "Lahore",
+    "service_category": "tutor",
+    "category": "Tutor",
+    "location": "All Lahore areas (DHA, Gulberg, Johar Town, Model Town, Bahria Town)",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Oxford+Home+Tutors+Lahore",
+    "base_price": 5000,
+    "skills_array": [
+      "Home tuition",
+      "Online tuition",
+      "O & A levels",
+      "Matric & FSc",
+      "Male & female tutors"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "website": "https://oxfordhometutors.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_tu_verified_05",
+    "name": "Lahore Tutors - Platform",
+    "city": "Lahore",
+    "service_category": "tutor",
+    "category": "Tutor",
+    "location": "DHA, Johar Town, Gulberg, Bahria Town, Model Town, Cantt",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Lahore+Tutors+platform",
+    "base_price": 5000,
+    "skills_array": [
+      "Browse verified tutors",
+      "O Level, A Level, Matric",
+      "Physics, Chemistry, Maths",
+      "Contact tutors directly"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "website": "https://www.lahoretutors.pk/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_be_verified_01",
+    "name": "Cheryl's Company - Beauty Services at Home",
+    "city": "Lahore",
+    "service_category": "beautician",
+    "category": "Beautician",
+    "location": "All Lahore areas (DHA, Gulberg, Model Town, Johar Town, Bahria Town, Cantt)",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Cheryls+Company+Lahore",
+    "base_price": 3000,
+    "skills_array": [
+      "Waxing",
+      "Facial",
+      "Manicure & pedicure",
+      "Makeup",
+      "Hair treatment",
+      "Threading"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 95,
+    "cancellation_rate": 2,
+    "phone": "+92-302-1119973",
+    "website": "https://www.cheryls.com.pk/lahore",
+    "source": "Official Website",
+    "verified": true,
+    "home_service": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_be_verified_02",
+    "name": "Beautician - Home Salon Services",
+    "city": "Lahore",
+    "service_category": "beautician",
+    "category": "Beautician",
+    "location": "DHA, Johar Town, Model Town, Gulberg, Bahria Town, Cantt",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Beautician+home+services+Lahore",
+    "base_price": 3000,
+    "skills_array": [
+      "Full body waxing",
+      "Bridal makeup",
+      "Hair treatment",
+      "Facial & nails",
+      "Mehndi artist"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 95,
+    "cancellation_rate": 2,
+    "phone": "0313-4323387",
+    "website": "https://beautician.com.pk/lahore/",
+    "source": "Official Website",
+    "verified": true,
+    "home_service": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_be_verified_03",
+    "name": "Divine Beauty - Home Salon Services",
+    "city": "Lahore",
+    "service_category": "beautician",
+    "category": "Beautician",
+    "location": "All Lahore areas",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Divine+Beauty+Lahore",
+    "base_price": 3000,
+    "skills_array": [
+      "Waxing at home",
+      "Party makeup",
+      "Facials",
+      "Threading",
+      "Verified beauticians"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.9,
+    "reliability_score": 100,
+    "cancellation_rate": 2,
+    "phone": "+92-316-0658525",
+    "website": "https://divinebeauty.com.pk/",
+    "source": "Official Website",
+    "verified": true,
+    "verified_reviews": 1000,
+    "home_service": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_me_verified_01",
+    "name": "Acha Mechanic - Auto Workshop",
+    "city": "Lahore",
+    "service_category": "mechanic",
+    "category": "Mechanic",
+    "location": "Valencia Town, Lahore (serves DHA, Gulberg, Johar Town, Model Town)",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Acha+Mechanic+Valencia+Lahore",
+    "base_price": 2500,
+    "skills_array": [
+      "Car repair",
+      "AC service",
+      "Engine diagnostics",
+      "Transmission repair",
+      "Mobile mechanic service",
+      "24/7 roadside assistance"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 95,
+    "cancellation_rate": 2,
+    "website": "https://achamechanic.com/",
+    "source": "Official Website",
+    "verified": true,
+    "mobile_service": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_me_verified_02",
+    "name": "Umer Autos - Car Repair Services",
+    "city": "Lahore",
+    "service_category": "mechanic",
+    "category": "Mechanic",
+    "location": "All Lahore areas (DHA, Johar Town, Model Town, Gulberg, Bahria Town)",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Umer+Autos+Lahore",
+    "base_price": 2500,
+    "skills_array": [
+      "Engine repair",
+      "Transmission service",
+      "Oil changes",
+      "AC repair",
+      "Suspension repair",
+      "Battery replacement"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "website": "https://umerauto.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_me_verified_03",
+    "name": "MotoHelpers - Mobile Car Repair",
+    "city": "Lahore",
+    "service_category": "mechanic",
+    "category": "Mechanic",
+    "location": "All Lahore areas",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/MotoHelpers+Lahore",
+    "base_price": 2500,
+    "skills_array": [
+      "Doorstep car repair",
+      "Engine diagnostics",
+      "Transmission service",
+      "Brake repair",
+      "Tire service",
+      "24/7 available"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 95,
+    "cancellation_rate": 2,
+    "website": "https://motohelpers.com/",
+    "source": "Official Website",
+    "verified": true,
+    "mobile_service": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "lhr_hs_verified_01",
+    "name": "Mahir Company - Home Services & Cleaning",
+    "city": "Lahore",
+    "service_category": "home_service",
+    "category": "Home Services",
+    "location": "All Lahore areas",
+    "lat": 31.5204,
+    "lon": 74.3587,
+    "location_coordinates": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "map_url": "https://www.google.com/maps/search/Mahir+Company+Lahore+Home+Services",
+    "base_price": 3000,
+    "skills_array": [
+      "Sofa cleaning",
+      "Carpet cleaning",
+      "Water tank cleaning",
+      "Home maintenance",
+      "Fumigation"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 95,
+    "cancellation_rate": 2,
+    "phone": "0309-666-1919",
+    "website": "https://mahircompany.com/lahore",
+    "source": "Official Website",
+    "verified": true,
+    "app_available": true,
+    "app": "Mahir Company App",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_pl_verified_01",
+    "name": "FixDar Plumbing Services",
+    "city": "Karachi",
+    "service_category": "plumber",
+    "category": "Plumber",
+    "location": "Gulistan-e-Jauhar, Block 7",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "location_coordinates": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "map_url": "https://www.google.com/maps/search/FixDar+Gulistan-e-Jauhar+Karachi",
+    "base_price": 1200,
+    "skills_array": [
+      "Emergency plumbing",
+      "Leak detection",
+      "Drain cleaning",
+      "Water heater repair"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "+92-311-1222819",
+    "whatsapp": "+92-311-1222819",
+    "website": "https://www.fixdar.com",
+    "source": "Official Website & Business Directory",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_pl_verified_02",
+    "name": "Etminaan Services (Plumbing)",
+    "city": "Karachi",
+    "service_category": "plumber",
+    "category": "Plumber",
+    "location": "Clifton Block 4",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "location_coordinates": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "map_url": "https://www.google.com/maps/search/Etminaan+Services+Clifton+Karachi",
+    "base_price": 1200,
+    "skills_array": [
+      "Emergency plumbing",
+      "Leakage repair",
+      "Sewer line replacement",
+      "Pipe installation"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.9,
+    "reliability_score": 95,
+    "cancellation_rate": 2,
+    "phone": "Contact via website",
+    "website": "https://etminaanservices.com/plumbing-service/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_el_verified_01",
+    "name": "Ustaad Ji Electric Services",
+    "city": "Karachi",
+    "service_category": "electrician",
+    "category": "Electrician",
+    "location": "Serving all Karachi areas",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "location_coordinates": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "map_url": "https://www.google.com/maps/search/Ustaad+Ji+Electric+Karachi",
+    "base_price": 900,
+    "skills_array": [
+      "Electrical wiring",
+      "Fan installation",
+      "Light wiring",
+      "Electrical repairs"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "+92-300-254-6363",
+    "whatsapp": "+92-300-254-6363",
+    "website": "https://www.ustaadji.pk/",
+    "source": "Official Website",
+    "verified": true,
+    "experience": "10+ years",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_ac_verified_01",
+    "name": "Air Fix Masters AC Services",
+    "city": "Karachi",
+    "service_category": "ac_technician",
+    "category": "AC Technician",
+    "location": "Serving all Karachi areas (DHA, Clifton, Gulshan)",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "location_coordinates": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "map_url": "https://www.google.com/maps/search/Air+Fix+Masters+Karachi",
+    "base_price": 1500,
+    "skills_array": [
+      "AC installation",
+      "AC repair",
+      "Gas refill",
+      "Split AC cleaning",
+      "Emergency repairs"
+    ],
+    "availability": [
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 95,
+    "cancellation_rate": 5,
+    "phone": "0316-4430513",
+    "whatsapp": "0316-4430513",
+    "email": "info@airfixmasters.com",
+    "website": "https://airfixmasters.com/",
+    "source": "Official Website",
+    "verified": true,
+    "certified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_ac_verified_02",
+    "name": "ME Services (AC & HVAC)",
+    "city": "Karachi",
+    "service_category": "ac_technician",
+    "category": "AC Technician",
+    "location": "All Karachi areas (DHA, Clifton, Gulshan, Saddar, etc.)",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "location_coordinates": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "map_url": "https://www.google.com/maps/search/ME+Services+AC+Karachi",
+    "base_price": 1500,
+    "skills_array": [
+      "AC installation",
+      "AC repair",
+      "Gas filling",
+      "AC maintenance",
+      "HVAC systems"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 5,
+    "reliability_score": 100,
+    "cancellation_rate": 2,
+    "website": "https://meservices.pk/ac-services-karachi",
+    "source": "Official Website",
+    "verified": true,
+    "verified_reviews": true,
+    "certified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_be_verified_01",
+    "name": "Cheryl's Company Salon (Karachi)",
+    "city": "Karachi",
+    "service_category": "beautician",
+    "category": "Beautician",
+    "location": "Home Service - All Karachi areas",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "location_coordinates": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "map_url": "https://www.google.com/maps/search/Cheryl's+Company+Karachi",
+    "base_price": 3000,
+    "skills_array": [
+      "Waxing",
+      "Facial",
+      "Makeup",
+      "Manicure",
+      "Pedicure",
+      "Hair treatment"
+    ],
+    "availability": [
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.8,
+    "reliability_score": 96,
+    "cancellation_rate": 5,
+    "phone": "+92-302-1119973",
+    "whatsapp": "+92-302-1119973",
+    "website": "https://www.cheryls.com.pk/karachi",
+    "source": "Official Website & Reviews",
+    "verified": true,
+    "verified_reviews": true,
+    "experience": "Professional team, COVID-safe",
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_be_verified_02",
+    "name": "Shery's Salon",
+    "city": "Karachi",
+    "service_category": "beautician",
+    "category": "Beautician",
+    "location": "Nazimabad No. 1, Grace Tower",
+    "lat": 24.9451885,
+    "lon": 67.0485353,
+    "location_coordinates": {
+      "lat": 24.9451885,
+      "lng": 67.0485353
+    },
+    "map_url": "https://www.google.com/maps/search/Shery's+Salon+Nazimabad+Karachi",
+    "base_price": 3000,
+    "skills_array": [
+      "Hair cutting",
+      "Hair coloring",
+      "Makeup",
+      "Waxing"
+    ],
+    "availability": [
+      "morning",
+      "afternoon"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 5,
+    "phone": "0349-1942390",
+    "whatsapp": "0349-1942390",
+    "email": "info@sheryssalon.com",
+    "website": "https://sheryssalon.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_me_verified_01",
+    "name": "Detail Perfection Car Repair",
+    "city": "Karachi",
+    "service_category": "mechanic",
+    "category": "Mechanic",
+    "location": "Serving all Karachi areas",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "location_coordinates": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "map_url": "https://www.google.com/maps/search/Detail+Perfection+Karachi",
+    "base_price": 2000,
+    "skills_array": [
+      "Car repair",
+      "Mechanical fixes",
+      "AC repair",
+      "Mobile mechanic"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "0306-2488914",
+    "website": "https://detailperfection.com/car-repair-karachi/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_me_verified_02",
+    "name": "Auto N Bolt Mechanics",
+    "city": "Karachi",
+    "service_category": "mechanic",
+    "category": "Mechanic",
+    "location": "PECHS, Karachi",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "location_coordinates": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "map_url": "https://www.google.com/maps/search/Auto+N+Bolt+PECHS+Karachi",
+    "base_price": 2000,
+    "skills_array": [
+      "Car maintenance",
+      "Oil service",
+      "Brake service",
+      "Engine diagnosis"
+    ],
+    "availability": [
+      "afternoon"
+    ],
+    "rating": 4.7,
+    "reliability_score": 95,
+    "cancellation_rate": 5,
+    "website": "https://autonbolt.com/",
+    "source": "Official Website",
+    "verified": true,
+    "app_available": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_tu_verified_01",
+    "name": "DHA Tutors Academy",
+    "city": "Karachi",
+    "service_category": "tutor",
+    "category": "Tutor",
+    "location": "DHA Phase 5, Saba Commercial Area",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "location_coordinates": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "map_url": "https://www.google.com/maps/search/DHA+Tutors+Academy+Phase+5+Karachi",
+    "base_price": 5000,
+    "skills_array": [
+      "Home tuition",
+      "Online tuition",
+      "O-levels",
+      "A-levels",
+      "IGCSE",
+      "Matric"
+    ],
+    "availability": [
+      "evening"
+    ],
+    "rating": 5,
+    "reliability_score": 98,
+    "cancellation_rate": 5,
+    "phone": "0334-3072978",
+    "email": "tuitionindha@gmail.com",
+    "website": "https://www.dhatutorsacademy.com/",
+    "source": "Official Website & Business Directory",
+    "verified": true,
+    "verified_reviews": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_tu_verified_02",
+    "name": "Karachi Tutors Academy",
+    "city": "Karachi",
+    "service_category": "tutor",
+    "category": "Tutor",
+    "location": "Gulshan-e-Iqbal & DHA areas",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "location_coordinates": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "map_url": "https://www.google.com/maps/search/Karachi+Tutors+Academy+Gulshan+Iqbal",
+    "base_price": 5000,
+    "skills_array": [
+      "Home tuition",
+      "Online tuition",
+      "GCSE",
+      "O-levels",
+      "A-levels",
+      "IELTS",
+      "English language"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "0300-7071848",
+    "website": "https://karachitutors.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_hs_verified_01",
+    "name": "FixDar Home Services",
+    "city": "Karachi",
+    "service_category": "home_service",
+    "category": "Home Services",
+    "location": "All Karachi areas",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "location_coordinates": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "map_url": "https://www.google.com/maps/search/FixDar+Home+Services+Karachi",
+    "base_price": 3000,
+    "skills_array": [
+      "Deep cleaning",
+      "Carpet cleaning",
+      "Sofa cleaning",
+      "Fumigation",
+      "General maintenance"
+    ],
+    "availability": [
+      "morning",
+      "afternoon"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 5,
+    "phone": "+92-311-1222819",
+    "website": "https://www.fixdar.com/",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  },
+  {
+    "id": "khi_sp_verified_01",
+    "name": "Ustaad Ji Carpentry Services",
+    "city": "Karachi",
+    "service_category": "small_pro",
+    "category": "Small Professional (Carpenter/Painter)",
+    "location": "All Karachi areas",
+    "lat": 24.8607,
+    "lon": 67.0011,
+    "location_coordinates": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "map_url": "https://www.google.com/maps/search/Ustaad+Ji+Carpentry+Karachi",
+    "base_price": 3000,
+    "skills_array": [
+      "Wardrobe repair",
+      "Sofa repair",
+      "Door installation",
+      "Wood work",
+      "Floor polishing"
+    ],
+    "availability": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "rating": 4.7,
+    "reliability_score": 93,
+    "cancellation_rate": 2,
+    "phone": "+92-300-254-6363",
+    "website": "https://www.ustaadji.pk/carpenter-services-karachi",
+    "source": "Official Website",
+    "verified": true,
+    "notes": "Imported from city provider data. Coordinates use provider coordinates when supplied; otherwise city-level fallback coordinates are used."
+  }
+]

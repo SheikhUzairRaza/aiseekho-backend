@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+/dist
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# local env files
+.env
+.env*.local
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+.env.python
+
