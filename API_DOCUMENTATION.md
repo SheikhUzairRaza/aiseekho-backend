@@ -1,6 +1,6 @@
 # API Documentation
 
-This project is a Node.js + Express backend for an AI-driven service marketplace. It uses:
+This project is Node.js + Express backend for an AI-driven service marketplace. It uses:
 
 - `Express` for the HTTP API
 - `MongoDB` with `Mongoose` for persistence
@@ -71,7 +71,6 @@ The API will start on:
 ```txt
 http://localhost:3000
 ```
-
 unless `PORT` is overridden.
 
 ## Access Swagger UI
